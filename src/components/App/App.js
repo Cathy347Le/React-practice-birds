@@ -3,7 +3,7 @@ import { Link, Route, Switch } from "react-router-dom";
 import BirdList from "../BirdList/BirdList";
 import Bird from "../Bird/Bird";
 import CreateBird from "../CreateBird/CreateBird";
-// import "./App.css";
+import "./App.css";
 
 const birds = [
   {
